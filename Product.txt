@@ -1,0 +1,5 @@
+A001,apple123,8888.0,17,Available
+A002,banana123,8000.0,17,Not Available
+A003,milk345,9999.0,10,Not Available
+A004,orange123,8500.0,30,Available
+A005,laptop1,8888.0,30,Available
