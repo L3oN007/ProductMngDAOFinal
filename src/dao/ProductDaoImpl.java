@@ -101,6 +101,7 @@ public class ProductDaoImpl implements ProductDao {
         // products.add(new Product(productID, productName, unitPrice, quantity,
         // status));
         runTimeList.add(new Product(productID, productName, unitPrice, quantity, status));
+        System.out.println("Count:" + runTimeList.size());
         System.out.println("New dealer added successfully!");
         System.out.println("--------------------------------------------------------");
         changed = true;
